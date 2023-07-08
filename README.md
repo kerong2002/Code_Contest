@@ -9,6 +9,6 @@
 
 | Rank | Problem | Score | Finish Time   | [Q1 (3)](https://leetcode.com/contest/biweekly-contest-108/problems/longest-alternating-subarray/) | [Q2 (4)](https://leetcode.com/contest/biweekly-contest-108/problems/relocate-marbles/) | [Q3 (4)](https://leetcode.com/contest/biweekly-contest-108/problems/partition-string-into-minimum-beautiful-substrings/) | [Q4 (5)](https://leetcode.com/contest/biweekly-contest-108/problems/number-of-black-blocks/) | Date|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-:|
-| 8698 / 21116 | [Biweekly Contest 108](https://leetcode.com/contest/biweekly-contest-108)| 3 | 2:04:21 | 1:19:21   🐞9 |  ❌| ❌|❌ |2023/07/09|
+|10322 / 23570 | [Biweekly Contest 108](https://leetcode.com/contest/biweekly-contest-108)| 3 | 2:04:21 | 1:19:21   🐞9 |  ❌| ❌|❌ |2023/07/09|
 
 </details>
