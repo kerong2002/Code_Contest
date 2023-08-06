@@ -1,5 +1,5 @@
 # Code_Contest
-<details> 
+<details>  
  <summary><b>Leetcode Conteset</b></summary> 
 
 |Ranking| Contest| Score | Q1|Q2|Q3|Q4|Date|
